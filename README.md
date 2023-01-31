@@ -1,7 +1,10 @@
 # 🎬 MovieBox
 
 **Purpose of the App:**
+
 An application made in MVVM architecture, where users can see the details of the movies and make their own favorite lists. Technologies I use: Alamofire, SDWebImage, CoreData
+
+Protocol Oriented Programming and the application I made by following Solid Principles added a lot to me in the name of clean coding.
 
 **Screenshoots :**
 
